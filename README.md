@@ -63,7 +63,7 @@
 1. Получите токен написв BotFather
 2. Скопируйте репозиторий
    ```sh
-   git clone https://github.com/kitkot2/AGroup_TG_Bot
+   git clone https://github.com/kitkot2/AGroup_TG_Bot.git
    ```
    Или скачайте его в виде .zip файла
 3. Убедитесь, что у вас установлен python и pip
