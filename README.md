@@ -98,9 +98,9 @@
 
 ## Контакты
 
-Котенко Никита - kotenko.na@phystech.edu
+Никита Котенко - kotenko.na@phystech.edu
 
-Кравцов Артем - kravtsov.aa@phystech.edu
+Артем Кравцов - kravtsov.aa@phystech.edu
 
 Project Link: [https://github.com/kitkot2/AGroup_TG_Bot](https://github.com/kitkot2/AGroup_TG_Bot)
 
